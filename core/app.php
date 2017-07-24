@@ -13,4 +13,13 @@ class App
         $db->connect();
         return $db;
     }
+
+    /**
+     * Get config
+     * @return array of params
+     */
+    public static function config()
+    {
+        return require 'config.php';
+    }
 }

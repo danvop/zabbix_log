@@ -16,4 +16,10 @@ class AppController
         $result = App::database()->fetchByLevel($level);
         return require 'views/show.view.php';
     }
+
+    public function showFiltHost($host)
+    {
+        $result = App::database()->fetchByHost($host);
+        return require 'views/show.view.php';
+    }
 }
