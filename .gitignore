@@ -1,4 +1,7 @@
+/logs
 /vendor
+config.php
 composer.json
 composer.lock
-config.php
+
+
