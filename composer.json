@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "files":[],
+        "psr-4": {
+            "Core\\": "core/",
+            "App\\": "app/"
+        }
+    },
+    "require": {
+    },
+    "require-dev": {
+    }
+}
