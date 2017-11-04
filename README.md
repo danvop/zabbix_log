@@ -4,7 +4,7 @@
 Простой мониторинг событий syslog сетевого оборудования. 
 
 Рабочий пример:
-[syslog.techamm.com](http://syslog.techamm.com/)
+[syslog.danvop.com](http://syslog.danvop.com/)
 
 ![syslog](https://user-images.githubusercontent.com/5978976/28757896-3257eb1a-75d0-11e7-955d-4778c64aba18.png)
 
